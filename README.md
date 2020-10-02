@@ -11,7 +11,7 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dd4you&theme=radical&title_color=ff0000&text_color=fff)
 
 
-![Repo 1](https://github-readme-stats.vercel.app/api/pin/?username=dd4you&repo=DDAnimatoo&show_icons=true&theme=radical&title_color=8E2DE2&text_color=fff&icon_color=8E2DE2)
+![Repo 1](https://github-readme-stats.vercel.app/api/pin/?username=dd4you&repo=DDAnimatoo&show_icons=true&theme=radical&title_color=8E2DE2&text_color=fff&icon_color=8E2DE2)  
 ![Repo 2](https://github-readme-stats.vercel.app/api/pin/?username=dd4you&repo=DD4YouAppsConfig&show_icons=true&theme=radical&title_color=8E2DE2&text_color=fff&icon_color=8E2DE2)
 
 <p align="center">
