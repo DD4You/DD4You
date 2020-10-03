@@ -6,13 +6,13 @@
 - 😄 My website: https://dd4you.in/
 
 
-<img src="https://github-readme-stats.vercel.app/api?username=dd4you&show_icons=true&theme=radical&title_color=FFE853&text_color=fff&icon_color=FFE853">
+<img src="https://github-readme-stats.vercel.app/api?username=dd4you&show_icons=true&theme=radical&title_color=FFE853&text_color=fff&icon_color=79ff97">
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dd4you&theme=radical&title_color=FFE853&text_color=fff)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dd4you&theme=radical&title_color=FFE853&text_color=fff&icon_color=79ff97)
 
 
 ![Repo 1](https://github-readme-stats.vercel.app/api/pin/?username=dd4you&repo=DDAnimatoo&show_icons=true&theme=radical&title_color=FFE853&text_color=fff&icon_color=79ff97)
-![Repo 2](https://github-readme-stats.vercel.app/api/pin/?username=dd4you&repo=DD4YouAppsConfig&show_icons=true&theme=radical&title_color=FFE853&text_color=fff&icon_color=FFE853)
+![Repo 2](https://github-readme-stats.vercel.app/api/pin/?username=dd4you&repo=DD4YouAppsConfig&show_icons=true&theme=radical&title_color=FFE853&text_color=fff&icon_color=79ff97)
 
 <p align="center">
 <img src="https://visitor-badge.laobi.icu/badge?page_id=dd4you" id="counter">
