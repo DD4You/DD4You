@@ -1,4 +1,4 @@
-``<img align="right" alt="GIF" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif" width="400"/>
+<!--- <img align="right" alt="GIF" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif" width="400"/>  --->
 
 - 🔭 I’m currently working on Android
 - 🌱 I’m always learning
