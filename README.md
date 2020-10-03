@@ -7,7 +7,7 @@
 
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=dd4you&show_icons=true&theme=radical&title_color=FFE853&text_color=fff&icon_color=79ff97)
-![Stack Overflow](https://github-readme-stackoverflow.vercel.app/?userID=11287490")
+![Stack Overflow](https://github-readme-stackoverflow.vercel.app/?userID=11287490)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dd4you&theme=radical&title_color=FFE853&text_color=fff)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dd4you&layout=compact&theme=radical&title_color=FFE853&text_color=fff)
