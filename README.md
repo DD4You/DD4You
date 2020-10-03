@@ -16,5 +16,7 @@
 
 <p align="center">
 <img src="https://visitor-badge.laobi.icu/badge?page_id=dd4you" id="counter">
+
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FDD4You)](https://hits.seeyoufarm.com)
 </p>
 ⭐️ From [DD4You](https://github.com/dd4you)
