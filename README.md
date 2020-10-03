@@ -6,7 +6,8 @@
 - 😄 My website: https://dd4you.in/
 
 
-<img src="https://github-readme-stats.vercel.app/api?username=dd4you&show_icons=true&theme=radical&title_color=FFE853&text_color=fff&icon_color=79ff97">
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=dd4you&show_icons=true&theme=radical&title_color=FFE853&text_color=fff&icon_color=79ff97)
+![Stackoverflow](https://github-readme-stackoverflow.vercel.app/?userID=6558042")
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dd4you&theme=radical&title_color=FFE853&text_color=fff)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dd4you&layout=compact&theme=radical&title_color=FFE853&text_color=fff)
